@@ -1,0 +1,41 @@
+
+./01.hs,535
+module Haskell9901To10 Haskell9901To100,1
+myLast myLast4,5
+myLast myLast5,6
+myButLast myButLast9,10
+myButLast myButLast10,11
+elementAt elementAt16,17
+elementAt elementAt17,18
+myLength myLength19,20
+myLength myLength20,21
+reverse' reverse'24,25
+reverse' reverse'25,26
+isPalindrome isPalindrome28,29
+isPalindrome isPalindrome29,30
+compress compress31,32
+compress compress32,33
+compress' compress'35,36
+compress' compress'36,37
+pack pack38,39
+pack pack39,40
+encode encode43,44
+encode encode44,45
+
+./02.hs,515
+module Haskell9911to20 Haskell9911to200,1
+data ItemCount ItemCount4,5
+data ItemCount a = Multiple Multiple4,5
+data ItemCount a = Multiple Int a | Single Single4,5
+encodeMultiple encodeMultiple6,7
+encodeMultiple encodeMultiple7,8
+decodeModified decodeModified14,15
+decodeModified decodeModified15,16
+encode encode21,22
+encode encode22,23
+encodeDirect encodeDirect27,28
+encodeDirect encodeDirect28,29
+duplicate duplicate32,33
+duplicate duplicate33,34
+dupli dupli36,37
+dupli dupli37,38
